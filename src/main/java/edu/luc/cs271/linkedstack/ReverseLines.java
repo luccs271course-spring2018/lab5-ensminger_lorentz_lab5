@@ -6,9 +6,9 @@ public class ReverseLines {
 
 	public static void main(String[] args) {
 		// TODO read successive input lines until EOF, then print out in reverse order
+	
 
-
-	LinkedStack<String> stack = new LinkedStack<String>;
+	LinkedStack<String> stack = new LinkedStack<String>();
 		
     final Scanner input = new Scanner(System.in);
 		String line;
